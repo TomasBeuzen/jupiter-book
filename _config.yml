@@ -6,3 +6,11 @@ logo: logo.png
 latex:
   latex_documents:
     targetname: book.tex
+    
+launch_buttons:
+  binderhub_url: "https://mybinder.org"  # The URL for your BinderHub (e.g., https://mybinder.org)
+
+repository:
+  url          : https://github.com/TomasBeuzen/jupiter-book  # The URL to your book's repository
+  path_to_book : ""  # A path to your book's folder, relative to the repository root.
+  branch       : master  # Which branch of the repository should be used when creating links
