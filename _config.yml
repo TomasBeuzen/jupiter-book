@@ -9,11 +9,11 @@ latex:
     
 launch_buttons:
   notebook_interface : "classic" # The interface interactive links will activate ["classic", "jupyterlab"]
-  binderhub_url      : "https://mybinder.org"
+  binderhub_url      : "http://add5cbd334afa4caabb078b9dd879814-1849632652.ca-central-1.elb.amazonaws.com/"
   thebe              : true
 
 repository:
-  url          : http://add5cbd334afa4caabb078b9dd879814-1849632652.ca-central-1.elb.amazonaws.com/  # The URL to your book's repository
+  url          : https://github.com/TomasBeuzen/jupiter-book  # The URL to your book's repository
   path_to_book : ""  # A path to your book's folder, relative to the repository root.
   branch       : master  # Which branch of the repository should be used when creating links
 
