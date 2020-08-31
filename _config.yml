@@ -9,7 +9,7 @@ latex:
     
 launch_buttons:
   notebook_interface : "classic" # The interface interactive links will activate ["classic", "jupyterlab"]
-  binderhub_url      : "http://add5cbd334afa4caabb078b9dd879814-1849632652.ca-central-1.elb.amazonaws.com/"
+  binderhub_url      : "http://ac4fa73f328ee4022bd1e5cbeadcba2b-1718238252.ca-central-1.elb.amazonaws.com/"
   thebe              : true
 
 repository:
